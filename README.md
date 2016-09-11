@@ -6,4 +6,4 @@ These wheels can then be installed without compilation and associated developmen
 
 ## Quick Start
 
-See the [dockerproductionaws/ansible](http://github.com/docker-production-aws/ansible) repository for an example of how to use this image.  
+See the [docker-production-aws/ansible](http://github.com/docker-production-aws/ansible) repository for an example of how to use this image.  
